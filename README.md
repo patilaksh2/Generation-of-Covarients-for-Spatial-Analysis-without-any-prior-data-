@@ -210,7 +210,20 @@ gee-covariate-generator/
 
 If you use this script in your research or reports, please cite:
 
-> Patil, A. B. *Environmental Covariate Generator for Soil Survey using Google Earth Engine*. GitHub. https://github.com/patilaksh2/gee-covariate-generator
+## How to Add Citations
+
+```markdown
+## Citation
+
+If you use this project in your research or work, please cite it as:
+
+```bibtex
+@software{patil2026covariance,
+  author = {Patil, Akshay Bhagwan},
+  title = {Generation of Covarients for Spatial Analysis without any prior data},
+  year = {2026},
+  url = {https://github.com/patilaksh2/Generation-of-Covarients-for-Spatial-Analysis-without-any-prior-data-}
+}
 
 **Method reference:**
 > Minasny, B., & McBratney, A. B. (2006). A conditioned Latin hypercube method for sampling in the presence of ancillary information. *Computers & Geosciences*, 32(9), 1378–1388. https://doi.org/10.1016/j.geoderma.2005.12.009
@@ -226,5 +239,8 @@ If you use this script in your research or reports, please cite:
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-You are free to use, modify, and distribute this script with attribution.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2026 Patil Akshay Bhagwan
