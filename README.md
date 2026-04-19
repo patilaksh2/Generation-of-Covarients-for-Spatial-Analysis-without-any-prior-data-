@@ -1,0 +1,1 @@
+# Generation-of-Covarients-for-Spatial-Analysis-without-any-prior-data-
